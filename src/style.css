@@ -1,3 +1,9 @@
-h1, p {
-  font-family: Lato;
+body {
+  background: #222;
+  color: white;
+}
+#tweetCont {
+}
+#tweetText {
+  display: block;
 }
